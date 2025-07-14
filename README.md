@@ -53,4 +53,3 @@ Use Jetson-IO (DevKit only):
 ```bash
 sudo /opt/nvidia/jetson-io/jetson-io.py
 
-  U
